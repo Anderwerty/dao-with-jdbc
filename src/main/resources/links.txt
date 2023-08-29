@@ -1,0 +1,8 @@
+1. We can read properties for SimpleConnectorProvider from property file. More information you can find here
+https://mkyong.com/java/java-properties-file-examples/
+
+2. Connection pools https://www.baeldung.com/java-connection-pooling
+3. More about Hikari Connection Pool https://www.baeldung.com/hikaricp
+4. Pagination SQL https://www.baeldung.com/hikaricp
+5. pagination SQL and jdbc driver https://stackoverflow.com/questions/2771439/jdbc-pagination
+6. Dao vs repository  https://www.baeldung.com/java-dao-vs-repository#:~:text=DAO%20works%20as%20a%20data,DAO%20for%20accessing%20underlying%20storage
